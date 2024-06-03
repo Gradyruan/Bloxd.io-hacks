@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         blackhole for bloxd.io
+// @name         Blackhole client for Bloxd
 // @version      0.0.9
-// @description  Best free script atm
-// @author       Skidmus
+// @description  Best free Bloxd.io script
+// @author       Gradyruan
 // @match        *://bloxd.io/*
 // @match        *://*.bloxdhop.io/*
 // @match        *://*.bloxdk12.com/*
