@@ -10,3 +10,4 @@ Autoclicker: R
 Notifs: M
 Crosshair: U
 Gui: L
+ 
